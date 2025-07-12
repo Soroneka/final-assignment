@@ -4,7 +4,7 @@
   
   font-style: normal;
   font-variation-settings:
-    "wdth" 100;
+    "width" 100;
 }
 
 /* shared-design */
@@ -57,8 +57,42 @@
 }
 
 .heading{
-    background-image: url(/Assets/Hero-bg.png);
+    background-image: url(./Assets/Hero-bg.png);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
+/* main-design */
+.Ready{
+    color: 252432;
+    font-weight: bold;
+    font-size: 42px;
+}
+.This{
+    color: #252432;
+    font-size: 24px;
+    font-weight: 400px;
+
+}
+.Ger{
+    padding: 16px;
+    background-color: #4E47FF;
+    border-radius: 10px;
+    color: rgba(255, 255, 255, 1);
+    width: 225px;
+    border: none;
+}
+.pasha2{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 116px;
+    margin-bottom: 116px;
+    margin-left: 141px;
+    margin-right: 155px;
+    background-color: rgba(255, 255, 255, 1);
+}
+.img-class{
+    border-radius: 48px;
+    width: 400px;
+    height: 300px;}
+    
