@@ -95,4 +95,37 @@
     border-radius: 48px;
     width: 400px;
     height: 300px;}
+    /* another step */
+.another{
+    display: flex;
+}
+
+.Joined{
+    color: #252432;
+    font-weight: bold;
+    font-size: 38px;
+    text-align: center;
+}
+.main-title{
+    color: rgba(78, 71, 255, 1);
+    font-weight: bold;
+    font-size: 80px;
+}
+.Active{
+    color: rgba(0, 0, 0, 0.5);
+    font-weight: 400px;
+    font-size: 20px;
     
+    
+}
+.pasha3{
+    margin-right: 159px;
+}
+.another-done{
+    margin-left: 141px;
+    margin-right: 149px;
+    background-color: rgb(176, 215, 230);
+    padding: 50px 142px 50px 142px;
+    border-radius: 24px;
+    margin-bottom: 137px;
+}
