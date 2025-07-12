@@ -1,0 +1,64 @@
+.open-sans-normal {
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+/* shared-design */
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+/* header-design */
+.logo{
+    color: rgba(78, 71, 255, 1);
+    font-size: 34px;
+    font-weight: 900px;
+    
+    
+}
+.sign-up{
+    background-color: rgba(78, 71, 255, 1);
+    border-radius: 10px;
+    color: #FFFFFF;
+    padding: 10px;
+    border: none;
+    font-size: 12px;
+    width: 132px;
+    height: 48px;
+    
+}
+.sign2{
+    margin-bottom: 150px;
+}
+.pasha{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 50px 150px 158px 50px;
+}
+/* heading er banner */
+.cool{
+    font-weight: bold;
+    font-size: 65px;
+    color: #252432;
+}
+.header-container{
+    text-align: center;
+    /* margin-bottom: 150px; */
+    
+
+
+}
+
+.heading{
+    background-image: url(/Assets/Hero-bg.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
